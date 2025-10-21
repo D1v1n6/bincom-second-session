@@ -1,0 +1,156 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\pjayd\\Desktop\\tryagain\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D49F9EEB-25CB-4134-B37C-8201D54F6C1D}|tryagain\\tryagain.csproj|c:\\users\\pjayd\\desktop\\tryagain\\tryagain\\controllers\\mytax.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D49F9EEB-25CB-4134-B37C-8201D54F6C1D}|tryagain\\tryagain.csproj|solutionrelative:tryagain\\controllers\\mytax.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D49F9EEB-25CB-4134-B37C-8201D54F6C1D}|tryagain\\tryagain.csproj|c:\\users\\pjayd\\desktop\\tryagain\\tryagain\\views\\mytax\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D49F9EEB-25CB-4134-B37C-8201D54F6C1D}|tryagain\\tryagain.csproj|solutionrelative:tryagain\\views\\mytax\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D49F9EEB-25CB-4134-B37C-8201D54F6C1D}|tryagain\\tryagain.csproj|c:\\users\\pjayd\\desktop\\tryagain\\tryagain\\models\\tax.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D49F9EEB-25CB-4134-B37C-8201D54F6C1D}|tryagain\\tryagain.csproj|solutionrelative:tryagain\\models\\tax.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D49F9EEB-25CB-4134-B37C-8201D54F6C1D}|tryagain\\tryagain.csproj|c:\\users\\pjayd\\desktop\\tryagain\\tryagain\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D49F9EEB-25CB-4134-B37C-8201D54F6C1D}|tryagain\\tryagain.csproj|solutionrelative:tryagain\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D49F9EEB-25CB-4134-B37C-8201D54F6C1D}|tryagain\\tryagain.csproj|c:\\users\\pjayd\\desktop\\tryagain\\tryagain\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D49F9EEB-25CB-4134-B37C-8201D54F6C1D}|tryagain\\tryagain.csproj|solutionrelative:tryagain\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D49F9EEB-25CB-4134-B37C-8201D54F6C1D}|tryagain\\tryagain.csproj|c:\\users\\pjayd\\desktop\\tryagain\\tryagain\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D49F9EEB-25CB-4134-B37C-8201D54F6C1D}|tryagain\\tryagain.csproj|solutionrelative:tryagain\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D49F9EEB-25CB-4134-B37C-8201D54F6C1D}|tryagain\\tryagain.csproj|c:\\users\\pjayd\\desktop\\tryagain\\tryagain\\views\\home\\cv.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D49F9EEB-25CB-4134-B37C-8201D54F6C1D}|tryagain\\tryagain.csproj|solutionrelative:tryagain\\views\\home\\cv.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D49F9EEB-25CB-4134-B37C-8201D54F6C1D}|tryagain\\tryagain.csproj|c:\\users\\pjayd\\desktop\\tryagain\\tryagain\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D49F9EEB-25CB-4134-B37C-8201D54F6C1D}|tryagain\\tryagain.csproj|solutionrelative:tryagain\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\pjayd\\Desktop\\tryagain\\tryagain\\Views\\MyTax\\Index.cshtml",
+              "RelativeDocumentMoniker": "tryagain\\Views\\MyTax\\Index.cshtml",
+              "ToolTip": "C:\\Users\\pjayd\\Desktop\\tryagain\\tryagain\\Views\\MyTax\\Index.cshtml*",
+              "RelativeToolTip": "tryagain\\Views\\MyTax\\Index.cshtml*",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAAABgAAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-19T20:29:31.862Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Tax.cs",
+              "DocumentMoniker": "C:\\Users\\pjayd\\Desktop\\tryagain\\tryagain\\Models\\Tax.cs",
+              "RelativeDocumentMoniker": "tryagain\\Models\\Tax.cs",
+              "ToolTip": "C:\\Users\\pjayd\\Desktop\\tryagain\\tryagain\\Models\\Tax.cs",
+              "RelativeToolTip": "tryagain\\Models\\Tax.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwA4AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-19T19:25:28.037Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\pjayd\\Desktop\\tryagain\\tryagain\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "tryagain\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\pjayd\\Desktop\\tryagain\\tryagain\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "tryagain\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAABAAAAAAAAAAAAAAAB4AAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-19T18:42:54.432Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CV.cshtml",
+              "DocumentMoniker": "C:\\Users\\pjayd\\Desktop\\tryagain\\tryagain\\Views\\Home\\CV.cshtml",
+              "RelativeDocumentMoniker": "tryagain\\Views\\Home\\CV.cshtml",
+              "ToolTip": "C:\\Users\\pjayd\\Desktop\\tryagain\\tryagain\\Views\\Home\\CV.cshtml",
+              "RelativeToolTip": "tryagain\\Views\\Home\\CV.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-19T18:35:51.691Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\pjayd\\Desktop\\tryagain\\tryagain\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "tryagain\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\pjayd\\Desktop\\tryagain\\tryagain\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "tryagain\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-19T18:07:26.087Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MyTax.cs",
+              "DocumentMoniker": "C:\\Users\\pjayd\\Desktop\\tryagain\\tryagain\\Controllers\\MyTax.cs",
+              "RelativeDocumentMoniker": "tryagain\\Controllers\\MyTax.cs",
+              "ToolTip": "C:\\Users\\pjayd\\Desktop\\tryagain\\tryagain\\Controllers\\MyTax.cs",
+              "RelativeToolTip": "tryagain\\Controllers\\MyTax.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAAABMAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-19T20:28:14.969Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\pjayd\\Desktop\\tryagain\\tryagain\\Program.cs",
+              "RelativeDocumentMoniker": "tryagain\\Program.cs",
+              "ToolTip": "C:\\Users\\pjayd\\Desktop\\tryagain\\tryagain\\Program.cs",
+              "RelativeToolTip": "tryagain\\Program.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABcAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-19T21:33:59.28Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "C:\\Users\\pjayd\\Desktop\\tryagain\\tryagain\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "tryagain\\Views\\Home\\Privacy.cshtml",
+              "ToolTip": "C:\\Users\\pjayd\\Desktop\\tryagain\\tryagain\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "tryagain\\Views\\Home\\Privacy.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-19T18:29:52.299Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

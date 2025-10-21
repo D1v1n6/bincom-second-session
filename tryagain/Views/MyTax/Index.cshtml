@@ -1,0 +1,30 @@
+﻿@model tryagain.Models.Tax
+<html>
+	<head>
+
+	</head>
+	<body>
+		<h2>TAX CALCULATOR</h2>
+
+		<div class="row">
+			@using (Html.BeginForm("Index", "MyTax", FormMethod.Post))
+			{
+				<div class="form-group">
+					<label for="taxId">TAX CODE</label>
+					<input type="text" class="form-control" id="TaxId" name="TaxId" value="@Model.TaxId" required/>
+				</div>
+				<div class="form-group">
+					<label for="salary">SALARY</label>
+					<input type="text" class="form-control" id="Sal" name="Sal" value="@Model.Sal" required/>
+				</div>
+				<div class="form-group">
+					<label for="tax">TAX</label>
+					<input type="text" class="form-control" id="Ta" name="Ta" value="@Model.Ta" />
+				</div>
+
+				<button type="submit" class="btn btn-info" id="add" value="">Ok</button>
+			}
+		</div>
+
+	</body>
+</html>
